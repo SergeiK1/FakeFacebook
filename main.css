@@ -1,0 +1,33 @@
+html body { 
+    background-color: #F0F2F5;
+}
+
+.wrapper {  
+    margin-top: 10%;
+    display: flex;   
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.title {
+    margin-left: 16%;
+}
+.title h1 {
+    color: #1877F2;
+    font-weight: bolder;
+    font-size: 3.4rem;
+}
+.title p {
+    font-size: 1.5rem;
+}
+
+
+.signin { 
+    margin-right: 17%;
+    background-color: white;
+    padding: 1.3rem 1.3rem 1.3rem 1.3rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+
